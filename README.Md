@@ -19,7 +19,7 @@ Explanation: It displays the shoe image and has hover effects applied to it to c
 
 3.![tird](s2.png)
 
-4.1[fourth](s3.png)
+4.![fourth](s3.png)
 * Universal Selector (*):
 margin, padding, box-sizing:
 * margin sets the margin space around elements.
