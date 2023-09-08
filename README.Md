@@ -61,3 +61,6 @@ color, margin-left, margin-top:
 color sets the text color to white.
 margin-left and margin-top provide spacing for paragraphs and headings.
 Purpose: These properties style the text within paragraphs and headings in the shoe description.
+
+# Hosted Link
+https://nikhitha5511.github.io/shoe/?authuser=0
